@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "正在查询设备信息，请稍后..."; ObjectID = "5rP-JO-eZs"; */
+"5rP-JO-eZs.text" = "正在查询设备信息，请稍后...";
+
+/* Class = "UILabel"; text = "尚未连接网络"; ObjectID = "8qO-si-Tda"; */
+"8qO-si-Tda.text" = "尚未连接网络";
+
+/* Class = "UILabel"; text = "密码"; ObjectID = "KAV-Sk-wEc"; */
+"KAV-Sk-wEc.text" = "密码";
+
+/* Class = "UIButton"; normalTitle = "添加"; ObjectID = "Qbm-8l-KeG"; */
+"Qbm-8l-KeG.normalTitle" = "添加";
+
+/* Class = "UILabel"; text = "如果你使用的是双频路由器，请不要让摄像机连接5G频段的Wi-Fi"; ObjectID = "R5v-Qf-L5p"; */
+"R5v-Qf-L5p.text" = "如果你使用的是双频路由器，请不要让摄像机连接5G频段的Wi-Fi";
+
+/* Class = "UITextField"; placeholder = "设备机身上的9位序列号"; ObjectID = "bPa-tw-WRa"; */
+"bPa-tw-WRa.placeholder" = "设备机身上的9位序列号";
+
+/* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "hA9-0Y-3Qf"; */
+"hA9-0Y-3Qf.normalTitle" = "下一步";
+
+/* Class = "UILabel"; text = "设备二维码"; ObjectID = "jzO-DN-MQp"; */
+"jzO-DN-MQp.text" = "设备二维码";
+
+/* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "x6F-l5-dhJ"; */
+"x6F-l5-dhJ.normalTitle" = "下一步";
+
+/* Class = "UILabel"; text = "网络"; ObjectID = "xrj-ZU-1Ue"; */
+"xrj-ZU-1Ue.text" = "网络";
